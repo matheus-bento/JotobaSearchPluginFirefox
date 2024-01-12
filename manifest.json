@@ -1,8 +1,8 @@
 {
 
   "manifest_version": 2,
-  "name": "Jisho Search Plugin",
-  "description": "Allows the user to search selected text on a webpage directly on Jisho dictionary",
+  "name": "Jotoba Search Plugin",
+  "description": "Allows the user to search selected text on a webpage directly on Jotoba",
   "version": "1.0",
 
   "background": {
@@ -15,7 +15,7 @@
   ],
   
   "icons": {
-    "16": "icons/jisho-16.png"
+    "16": "icons/jotoba-16.png"
   }
 
 }
